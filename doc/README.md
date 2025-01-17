@@ -558,3 +558,4 @@ Video mi pomohlo lépe pochopit výhody a nevýhody vzoru **Active Record**. Dí
 
 ---
 
+
